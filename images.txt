@@ -1,2 +1,1 @@
-bitnami/mysql:8.4.1
-grokzen/redis-cluster:6.2.14
+bitnami/mysql:8.0.38
