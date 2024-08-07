@@ -1,1 +1,1 @@
-bitnami/mysql:8.0.38
+getmeili/meilisearch:v1.9
