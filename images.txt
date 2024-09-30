@@ -1,1 +1,1 @@
-getmeili/meilisearch:v1.9
+buildpack-deps:bookworm
