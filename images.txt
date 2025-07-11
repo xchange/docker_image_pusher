@@ -1,2 +1,2 @@
-rust:1.85.0-slim-bookworm
-rust:1.85.0-alpine3.21
+rust:1.88.0-slim-bookworm
+grokzen/redis-cluster:6.2.14
