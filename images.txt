@@ -1,1 +1,1 @@
-vllm/vllm-openai:latest
+python:3.14-slim
