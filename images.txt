@@ -1,1 +1,1 @@
-python:3.14-slim
+rust:1.93-bookworm
